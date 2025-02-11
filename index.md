@@ -12,3 +12,10 @@ this is the content of the page and it will be posted below the header.
 ```python
 int var=10
 ```
+
+#### TO DO LIST 
+- [X] turn on GitHub Pages
+- [ ] Outline the portfolio
+- [ ] Introduce myself to the work
+      
+
